@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simpleicons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T01:27:31Z",
+            "owner": "simple-icons",
+            "repo": "simple-icons",
+            "stars": 25611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroicons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T13:51:18Z",
+            "owner": "tailwindlabs",
+            "repo": "heroicons",
+            "stars": 23738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionicons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T20:43:44Z",
+            "owner": "ionic-team",
+            "repo": "ionicons",
+            "stars": 18140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperTinyIcons",
+          "description": "FREE Miniscule SVG Icons of Websites & Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T06:50:14Z",
+            "owner": "edent",
+            "repo": "SuperTinyIcons",
+            "stars": 15376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap Icons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T13:25:21Z",
+            "owner": "twbs",
+            "repo": "icons",
+            "stars": 8096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iconoir",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:18:42Z",
+            "owner": "iconoir-icons",
+            "repo": "iconoir",
+            "stars": 4520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixelarticons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:22:20Z",
+            "owner": "halfmage",
+            "repo": "pixelarticons",
+            "stars": 814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pattern Monster",
+          "description": "FREE SVG Patterns (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-09-11T22:14:44Z",
+            "owner": "catchspider2002",
+            "repo": "svelte-svg-patterns",
+            "stars": 739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web3icons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T10:59:57Z",
+            "owner": "0xa3k5",
+            "repo": "web3icons",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awsicons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-10-23T14:44:11Z",
+            "owner": "boyney123",
+            "repo": "awsicons",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Majesticons",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-12T17:16:58Z",
+            "owner": "halfmage",
+            "repo": "majesticons",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picon",
+          "description": "FREE Icons (Open Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-01T18:58:49Z",
+            "owner": "yne",
+            "repo": "picon",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "FREE Vectors 🎨"
+    },
+    {
+      "description": "Feel free to make suggestions here if you know of any not-so-popular websites that should be on this list. Please note that I will not add your suggestion if the website is popular and well-known, as the purpose of this list is to shout out hidden gems. 💎",
+      "items": [],
+      "title": "Notes 📒"
+    },
+    {
+      "description": "I don't own any of these websites, and I'll not be liable for any damage you get by using the items listed as freebies. Make sure to check the license terms of the item and crosscheck to ensure it is truly a freebie and not infringing someone's copyright. If you're the owner of one of the websites listed here and would like to remove it, just let me know. 🙂",
+      "items": [],
+      "title": "Disclaimer 🔴"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:30.966Z",
+    "original_repository": "zcraber/Freebies-Hub",
+    "original_repository_sha": "e6eae8b511513ea813ff26ec518d3c6620760db9",
+    "enhanced_repository": "enhansome/enhansome-Freebies-Hub",
+    "enhanced_repository_description": null,
+    "title": "Awesome Freebies Hub with stars"
+  }
+}
