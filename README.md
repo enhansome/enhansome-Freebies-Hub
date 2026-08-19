@@ -66,7 +66,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Vectors 🎨
 
-* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 25,640 | 🐛 932 | 🌐 JavaScript | 📅 2026-08-02)
+* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 25,640 | 🐛 933 | 🌐 JavaScript | 📅 2026-08-02)
 * [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,751 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12)
 * [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,148 | 🐛 84 | 🌐 TypeScript | 📅 2026-07-28)
 * [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,379 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
