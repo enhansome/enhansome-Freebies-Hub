@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6720403,
             "language": "JavaScript",
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25632
+            "stars": 25640
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242754476,
             "language": "JavaScript",
             "last_commit": "2026-05-12T13:51:18Z",
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23748
+            "stars": 23751
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13473768,
             "language": "TypeScript",
             "last_commit": "2026-07-28T20:43:44Z",
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18146
+            "stars": 18148
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88214511,
             "language": "Python",
             "last_commit": "2026-05-18T06:50:14Z",
             "owner": "edent",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198878888,
             "language": "TypeScript",
             "last_commit": "2026-08-07T13:25:21Z",
             "owner": "twbs",
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127029973,
             "language": "TypeScript",
             "last_commit": "2026-08-12T04:18:42Z",
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4521
+            "stars": 4522
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194494467,
             "language": "JavaScript",
             "last_commit": "2026-08-16T17:26:01Z",
             "owner": "halfmage",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279407370,
             "language": "Svelte",
             "last_commit": "2024-09-11T22:14:44Z",
             "owner": "catchspider2002",
@@ -122,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 768276429,
             "language": "TypeScript",
-            "last_commit": "2026-08-03T10:59:57Z",
+            "last_commit": "2026-08-18T14:01:55Z",
             "owner": "0xa3k5",
             "repo": "web3icons",
             "stars": 267
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316425801,
             "language": "CSS",
             "last_commit": "2023-10-23T14:44:11Z",
             "owner": "boyney123",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334372568,
             "language": null,
             "last_commit": "2026-07-12T17:16:58Z",
             "owner": "halfmage",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216182315,
             "language": "HTML",
             "last_commit": "2024-05-01T18:58:49Z",
             "owner": "yne",
@@ -173,21 +185,12 @@
         }
       ],
       "title": "FREE Vectors 🎨"
-    },
-    {
-      "description": "Feel free to make suggestions here if you know of any not-so-popular websites that should be on this list. Please note that I will not add your suggestion if the website is popular and well-known, as the purpose of this list is to shout out hidden gems. 💎",
-      "items": [],
-      "title": "Notes 📒"
-    },
-    {
-      "description": "I don't own any of these websites, and I'll not be liable for any damage you get by using the items listed as freebies. Make sure to check the license terms of the item and crosscheck to ensure it is truly a freebie and not infringing someone's copyright. If you're the owner of one of the websites listed here and would like to remove it, just let me know. 🙂",
-      "items": [],
-      "title": "Disclaimer 🔴"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:15:30.828Z",
+    "last_updated": "2026-08-19T12:12:40.233Z",
     "original_repository": "zcraber/Freebies-Hub",
+    "original_repository_id": 455103343,
     "original_repository_sha": "e6eae8b511513ea813ff26ec518d3c6620760db9",
     "enhanced_repository": "enhansome/enhansome-Freebies-Hub",
     "enhanced_repository_description": null,
