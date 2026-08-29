@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-08-29T01:29:28Z",
-            "open_issues": 946,
+            "open_issues": 947,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25743,
+            "stars": 25745,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23772,
+            "stars": 23770,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 86,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18159,
+            "stars": 18158,
             "topics": [
               "icon-pack",
               "icons",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:40.910Z",
+    "last_updated": "2026-08-29T15:45:35.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
