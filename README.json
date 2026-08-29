@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVG icons for popular brands",
+            "homepage": "https://simpleicons.org",
             "id": 6720403,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T06:39:59Z",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-29T01:29:28Z",
+            "open_issues": 946,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25743
+            "stars": 25743,
+            "topics": [
+              "brand",
+              "brand-assets",
+              "brand-colors",
+              "branding",
+              "branding-assets",
+              "brands",
+              "company-brands",
+              "design",
+              "design-assets",
+              "icon-pack",
+              "icon-packs",
+              "icons",
+              "iconset",
+              "logo",
+              "logos",
+              "svg",
+              "svg-files",
+              "svg-icons",
+              "svg-images"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -26,12 +51,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+            "homepage": "https://heroicons.com",
             "id": 242754476,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-12T13:51:18Z",
+            "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23768
+            "stars": 23772,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -42,12 +72,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎",
+            "homepage": "http://ionicons.com",
             "id": 13473768,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T20:43:44Z",
+            "open_issues": 86,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18158
+            "stars": 18159,
+            "topics": [
+              "icon-pack",
+              "icons",
+              "iconset",
+              "ionic",
+              "ionicons",
+              "stenciljs",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -58,12 +101,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+            "homepage": "https://edent.github.io/SuperTinyIcons/",
             "id": 88214511,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T06:50:14Z",
+            "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15378
+            "stars": 15380,
+            "topics": [
+              "hacktoberfest",
+              "logo",
+              "social-media",
+              "svg",
+              "svg-icons",
+              "tiny-social-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -74,12 +129,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official open source SVG icon library for Bootstrap.",
+            "homepage": "https://icons.getbootstrap.com",
             "id": 198878888,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T13:25:21Z",
+            "open_issues": 482,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8112
+            "stars": 8114,
+            "topics": [
+              "bootstrap",
+              "font",
+              "icons",
+              "sprite",
+              "svg",
+              "woff",
+              "woff2"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -90,12 +158,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.",
+            "homepage": "https://iconoir.com",
             "id": 127029973,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T04:18:42Z",
+            "open_issues": 156,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4531
+            "stars": 4532,
+            "topics": [
+              "figma",
+              "flutter",
+              "framer",
+              "icon",
+              "icons",
+              "react",
+              "react-native",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -106,12 +188,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👾 Beautiful pixel icons. For the pixel vibes.",
+            "homepage": "https://pixelarticons.com",
             "id": 194494467,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T17:26:01Z",
+            "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 827
+            "stars": 827,
+            "topics": [
+              "icons",
+              "iconset",
+              "pixelart",
+              "svg",
+              "svg-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -122,12 +215,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design",
+            "homepage": "https://pattern.monster",
             "id": 279407370,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2024-09-11T22:14:44Z",
+            "open_issues": 17,
             "owner": "catchspider2002",
             "repo": "svelte-svg-patterns",
-            "stars": 743
+            "stars": 743,
+            "topics": [
+              "patterns",
+              "sapper",
+              "seamless-patterns",
+              "svelte",
+              "svelte-js",
+              "svg",
+              "svg-patterns"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -138,12 +244,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2000+ crypto svg icons for react",
+            "homepage": "https://web3icons.io",
             "id": 768276429,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T14:01:55Z",
+            "open_issues": 13,
             "owner": "0xa3k5",
             "repo": "web3icons",
-            "stars": 272
+            "stars": 272,
+            "topics": [
+              "blockchain",
+              "chain",
+              "crypto",
+              "icons",
+              "logos",
+              "network",
+              "react-icons",
+              "svg-icons",
+              "token",
+              "wallet",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -154,12 +277,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source SVG icon library with over 500+ icons",
+            "homepage": "https://awsicons.dev",
             "id": 316425801,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-10-23T14:44:11Z",
+            "open_issues": 6,
             "owner": "boyney123",
             "repo": "awsicons",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "aws",
+              "icons",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -170,12 +302,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👑 Free version of Majesticons — a versatile, beautiful, and scalable iconset. 760 MIT-licensed SVG icons in line and solid style. 11,000+ icons at majesticons.com",
+            "homepage": "https://majesticons.com",
             "id": 334372568,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-12T17:16:58Z",
+            "open_issues": 1,
             "owner": "halfmage",
             "repo": "majesticons",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "icon-pack",
+              "icons",
+              "iconset",
+              "line-icons",
+              "solid-icons",
+              "svg",
+              "svg-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         },
@@ -186,12 +331,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hackable Ligature Pico icoN set",
+            "homepage": "https://yne.github.io/picon",
             "id": 216182315,
             "language": "HTML",
+            "license": "OFL-1.1",
             "last_commit": "2024-05-01T18:58:49Z",
+            "open_issues": 0,
             "owner": "yne",
             "repo": "picon",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "font",
+              "font-icons",
+              "icomoon",
+              "icons",
+              "ligature",
+              "ligatures",
+              "picon",
+              "svg",
+              "unicode",
+              "webfont",
+              "woff2"
+            ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
         }
@@ -200,15 +362,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:04.465Z",
+    "last_updated": "2026-08-29T04:47:40.910Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
+      "homepage": "https://zcraber.github.io/Freebies-Hub/",
       "id": 455103343,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-07T17:31:11Z",
+      "open_issues": 0,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
-      "stars": 258
+      "stars": 258,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "design",
+        "downloadables",
+        "freebies",
+        "icons",
+        "images",
+        "list",
+        "music",
+        "photos",
+        "templates",
+        "vectors",
+        "videos",
+        "websites"
+      ]
     },
     "original_repository_sha": "e6eae8b511513ea813ff26ec518d3c6620760db9",
     "enhanced_repository": "enhansome/enhansome-Freebies-Hub",
