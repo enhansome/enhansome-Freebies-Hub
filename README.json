@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-08-29T01:29:28Z",
-            "open_issues": 947,
+            "open_issues": 948,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25745,
+            "stars": 25750,
             "topics": [
               "brand",
               "brand-assets",
@@ -81,7 +81,7 @@
             "open_issues": 86,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18158,
+            "stars": 18159,
             "topics": [
               "icon-pack",
               "icons",
@@ -138,7 +138,7 @@
             "open_issues": 482,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8114,
+            "stars": 8113,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 156,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4532,
+            "stars": 4531,
             "topics": [
               "figma",
               "flutter",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "icons",
               "iconset",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:45:35.109Z",
+    "last_updated": "2026-08-30T15:29:33.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
@@ -374,7 +374,7 @@
       "open_issues": 0,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
-      "stars": 258,
+      "stars": 259,
       "topics": [
         "awesome",
         "awesome-list",
