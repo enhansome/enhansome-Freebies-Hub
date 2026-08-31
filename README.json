@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-29T01:29:28Z",
+            "last_commit": "2026-08-30T15:47:17Z",
             "open_issues": 948,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25750,
+            "stars": 25760,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23770,
+            "stars": 23771,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 86,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18159,
+            "stars": 18162,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15380,
+            "stars": 15379,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 828,
+            "stars": 830,
             "topics": [
               "icons",
               "iconset",
@@ -253,7 +253,7 @@
             "open_issues": 13,
             "owner": "0xa3k5",
             "repo": "web3icons",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "blockchain",
               "chain",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:29:33.278Z",
+    "last_updated": "2026-08-31T18:11:21.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
