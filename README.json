@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-08-30T15:47:17Z",
-            "open_issues": 950,
+            "open_issues": 947,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25762,
+            "stars": 25767,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23773,
+            "stars": 23775,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 86,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18163,
+            "stars": 18164,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15381,
+            "stars": 15383,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -134,11 +134,11 @@
             "id": 198878888,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T03:44:51Z",
-            "open_issues": 484,
+            "last_commit": "2026-09-02T01:35:17Z",
+            "open_issues": 485,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8115,
+            "stars": 8116,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 156,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4532,
+            "stars": 4536,
             "topics": [
               "figma",
               "flutter",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "icons",
               "iconset",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "catchspider2002",
             "repo": "svelte-svg-patterns",
-            "stars": 743,
+            "stars": 742,
             "topics": [
               "patterns",
               "sapper",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:34:34.207Z",
+    "last_updated": "2026-09-02T15:21:39.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
