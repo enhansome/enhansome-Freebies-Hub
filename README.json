@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-30T15:47:17Z",
-            "open_issues": 948,
+            "last_commit": "2026-09-04T15:05:18Z",
+            "open_issues": 949,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25778,
+            "stars": 25789,
             "topics": [
               "brand",
               "brand-assets",
@@ -81,7 +81,7 @@
             "open_issues": 86,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18164,
+            "stars": 18163,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15383,
+            "stars": 15384,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -138,7 +138,7 @@
             "open_issues": 489,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8118,
+            "stars": 8120,
             "topics": [
               "bootstrap",
               "font",
@@ -253,7 +253,7 @@
             "open_issues": 13,
             "owner": "0xa3k5",
             "repo": "web3icons",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "blockchain",
               "chain",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:14:52.601Z",
+    "last_updated": "2026-09-04T15:09:41.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
@@ -374,7 +374,7 @@
       "open_issues": 0,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
-      "stars": 259,
+      "stars": 260,
       "topics": [
         "awesome",
         "awesome-list",

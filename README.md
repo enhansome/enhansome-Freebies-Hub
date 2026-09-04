@@ -66,15 +66,15 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Vectors 🎨
 
-* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 25,778 | 🐛 948 | 🌐 JavaScript | 📅 2026-08-30)
+* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 25,789 | 🐛 949 | 🌐 JavaScript | 📅 2026-09-04)
 * [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,777 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12)
-* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,164 | 🐛 86 | 🌐 TypeScript | 📅 2026-07-28)
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,383 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
-* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,118 | 🐛 489 | 🌐 TypeScript | 📅 2026-09-03)
+* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,163 | 🐛 86 | 🌐 TypeScript | 📅 2026-07-28)
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,384 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,120 | 🐛 489 | 🌐 TypeScript | 📅 2026-09-03)
 * [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,540 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-12)
 * [Pixelarticons](https://pixelarticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/pixelarticons) ⭐ 831 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-16)
 * [Pattern Monster](https://pattern.monster/) - FREE SVG Patterns ([Open Source](https://github.com/catchspider2002/svelte-svg-patterns) ⭐ 742 | 🐛 17 | 🌐 Svelte | 📅 2024-09-11)
-* [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 273 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18)
+* [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 274 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18)
 * [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons) ⭐ 199 | 🐛 6 | 🌐 CSS | 📅 2023-10-23)
 * [Majesticons](https://majesticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/majesticons) ⭐ 188 | 🐛 1 | 📅 2026-07-12)
 * [picon](https://yne.fr/picon/) - FREE Icons ([Open Source](https://github.com/yne/picon) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2024-05-01)
@@ -175,7 +175,7 @@ List of users who suggested new websites:
 
 ### Notes 📒
 
-Feel free to make suggestions [here](https://github.com/zcraber/Freebies-Hub/issues) ⭐ 259 | 🐛 0 | 📅 2026-06-07 if you know of any **not-so-popular** websites that should be on this list. Please note that I will not add your suggestion if the website is popular and well-known, as the purpose of this list is to shout out hidden gems. 💎
+Feel free to make suggestions [here](https://github.com/zcraber/Freebies-Hub/issues) ⭐ 260 | 🐛 0 | 📅 2026-06-07 if you know of any **not-so-popular** websites that should be on this list. Please note that I will not add your suggestion if the website is popular and well-known, as the purpose of this list is to shout out hidden gems. 💎
 
 ### Disclaimer 🔴
 
@@ -183,4 +183,4 @@ I don't own any of these websites, and I'll not be liable for any damage you get
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
