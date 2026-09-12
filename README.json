@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-09T16:09:40Z",
-            "open_issues": 958,
+            "last_commit": "2026-09-12T00:19:46Z",
+            "open_issues": 956,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25828,
+            "stars": 25834,
             "topics": [
               "brand",
               "brand-assets",
@@ -81,7 +81,7 @@
             "open_issues": 87,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18166,
+            "stars": 18168,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15391,
+            "stars": 15393,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -167,7 +167,7 @@
             "open_issues": 158,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4548,
+            "stars": 4550,
             "topics": [
               "figma",
               "flutter",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 838,
+            "stars": 841,
             "topics": [
               "icons",
               "iconset",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "catchspider2002",
             "repo": "svelte-svg-patterns",
-            "stars": 743,
+            "stars": 744,
             "topics": [
               "patterns",
               "sapper",
@@ -311,7 +311,7 @@
             "open_issues": 1,
             "owner": "halfmage",
             "repo": "majesticons",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "icon-pack",
               "icons",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:15:50.259Z",
+    "last_updated": "2026-09-12T14:24:53.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
@@ -374,7 +374,7 @@
       "open_issues": 0,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
-      "stars": 260,
+      "stars": 261,
       "topics": [
         "awesome",
         "awesome-list",

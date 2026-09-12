@@ -66,17 +66,17 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Vectors 🎨
 
-* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 25,828 | 🐛 958 | 🌐 JavaScript | 📅 2026-09-09)
+* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 25,834 | 🐛 956 | 🌐 JavaScript | 📅 2026-09-12)
 * [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,795 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12)
-* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,166 | 🐛 87 | 🌐 TypeScript | 📅 2026-07-28)
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,391 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
+* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,168 | 🐛 87 | 🌐 TypeScript | 📅 2026-07-28)
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,393 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
 * [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,121 | 🐛 492 | 🌐 TypeScript | 📅 2026-09-09)
-* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,548 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-12)
-* [Pixelarticons](https://pixelarticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/pixelarticons) ⭐ 838 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-16)
-* [Pattern Monster](https://pattern.monster/) - FREE SVG Patterns ([Open Source](https://github.com/catchspider2002/svelte-svg-patterns) ⭐ 743 | 🐛 17 | 🌐 Svelte | 📅 2024-09-11)
+* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,550 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-12)
+* [Pixelarticons](https://pixelarticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/pixelarticons) ⭐ 841 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-16)
+* [Pattern Monster](https://pattern.monster/) - FREE SVG Patterns ([Open Source](https://github.com/catchspider2002/svelte-svg-patterns) ⭐ 744 | 🐛 17 | 🌐 Svelte | 📅 2024-09-11)
 * [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 279 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-18)
 * [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons) ⭐ 199 | 🐛 6 | 🌐 CSS | 📅 2023-10-23)
-* [Majesticons](https://majesticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/majesticons) ⭐ 188 | 🐛 1 | 📅 2026-07-12)
+* [Majesticons](https://majesticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/majesticons) ⭐ 189 | 🐛 1 | 📅 2026-07-12)
 * [picon](https://yne.fr/picon/) - FREE Icons ([Open Source](https://github.com/yne/picon) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2024-05-01)
 * [Open Peeps](https://www.openpeeps.com/) - FREE Hand-drawn Vector Library
 * [Illustrations](https://illlustrations.co/) - FREE Kit with 100 Vectors
@@ -175,7 +175,7 @@ List of users who suggested new websites:
 
 ### Notes 📒
 
-Feel free to make suggestions [here](https://github.com/zcraber/Freebies-Hub/issues) ⭐ 260 | 🐛 0 | 📅 2026-06-07 if you know of any **not-so-popular** websites that should be on this list. Please note that I will not add your suggestion if the website is popular and well-known, as the purpose of this list is to shout out hidden gems. 💎
+Feel free to make suggestions [here](https://github.com/zcraber/Freebies-Hub/issues) ⭐ 261 | 🐛 0 | 📅 2026-06-07 if you know of any **not-so-popular** websites that should be on this list. Please note that I will not add your suggestion if the website is popular and well-known, as the purpose of this list is to shout out hidden gems. 💎
 
 ### Disclaimer 🔴
 
@@ -183,4 +183,4 @@ I don't own any of these websites, and I'll not be liable for any damage you get
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
