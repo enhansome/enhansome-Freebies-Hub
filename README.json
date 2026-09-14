@@ -19,7 +19,7 @@
             "open_issues": 956,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25840,
+            "stars": 25848,
             "topics": [
               "brand",
               "brand-assets",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15393,
+            "stars": 15392,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -138,7 +138,7 @@
             "open_issues": 492,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8125,
+            "stars": 8126,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 158,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4551,
+            "stars": 4552,
             "topics": [
               "figma",
               "flutter",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 841,
+            "stars": 844,
             "topics": [
               "icons",
               "iconset",
@@ -249,7 +249,7 @@
             "id": 768276429,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-18T14:01:55Z",
+            "last_commit": "2026-09-14T14:54:21Z",
             "open_issues": 15,
             "owner": "0xa3k5",
             "repo": "web3icons",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:06:11.203Z",
+    "last_updated": "2026-09-14T17:03:55.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
