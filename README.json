@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-09-17T01:05:10Z",
-            "open_issues": 959,
+            "open_issues": 962,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25876,
+            "stars": 25880,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23807,
+            "stars": 23806,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 87,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18169,
+            "stars": 18171,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15397,
+            "stars": 15398,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 849,
+            "stars": 851,
             "topics": [
               "icons",
               "iconset",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:12:37.228Z",
+    "last_updated": "2026-09-19T14:50:44.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
