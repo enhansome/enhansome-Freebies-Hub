@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-17T01:05:10Z",
-            "open_issues": 962,
+            "last_commit": "2026-09-20T04:25:37Z",
+            "open_issues": 963,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25880,
+            "stars": 25885,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23806,
+            "stars": 23810,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 87,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18171,
+            "stars": 18174,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15398,
+            "stars": 15399,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -138,7 +138,7 @@
             "open_issues": 493,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8131,
+            "stars": 8133,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 158,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4555,
+            "stars": 4556,
             "topics": [
               "figma",
               "flutter",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:50:44.468Z",
+    "last_updated": "2026-09-20T14:55:11.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
@@ -374,7 +374,7 @@
       "open_issues": 0,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
-      "stars": 261,
+      "stars": 262,
       "topics": [
         "awesome",
         "awesome-list",
