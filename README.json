@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-30T16:53:05Z",
-            "open_issues": 974,
+            "last_commit": "2026-09-30T19:30:33Z",
+            "open_issues": 973,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25939,
+            "stars": 25943,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23836,
+            "stars": 23842,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 89,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18183,
+            "stars": 18184,
             "topics": [
               "icon-pack",
               "icons",
@@ -134,11 +134,11 @@
             "id": 198878888,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T06:15:22Z",
-            "open_issues": 493,
+            "last_commit": "2026-10-01T11:08:22Z",
+            "open_issues": 496,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8136,
+            "stars": 8137,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 159,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4564,
+            "stars": 4566,
             "topics": [
               "figma",
               "flutter",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 863,
+            "stars": 862,
             "topics": [
               "icons",
               "iconset",
@@ -249,8 +249,8 @@
             "id": 768276429,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:54:10Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-30T18:50:19Z",
+            "open_issues": 13,
             "owner": "0xa3k5",
             "repo": "web3icons",
             "stars": 284,
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T17:01:07.462Z",
+    "last_updated": "2026-10-01T17:30:28.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
