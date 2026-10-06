@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-04T10:43:49Z",
-            "open_issues": 975,
+            "open_issues": 982,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25962,
+            "stars": 25969,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23850,
+            "stars": 23857,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 89,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18188,
+            "stars": 18187,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15401,
+            "stars": 15399,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -134,11 +134,11 @@
             "id": 198878888,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:08:22Z",
+            "last_commit": "2026-10-06T06:03:50Z",
             "open_issues": 496,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8138,
+            "stars": 8134,
             "topics": [
               "bootstrap",
               "font",
@@ -163,11 +163,11 @@
             "id": 127029973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-12T04:18:42Z",
-            "open_issues": 159,
+            "last_commit": "2026-10-06T09:19:59Z",
+            "open_issues": 158,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4567,
+            "stars": 4569,
             "topics": [
               "figma",
               "flutter",
@@ -193,7 +193,7 @@
             "id": 194494467,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-16T17:26:01Z",
+            "last_commit": "2026-10-06T09:25:00Z",
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
@@ -249,7 +249,7 @@
             "id": 768276429,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T18:50:19Z",
+            "last_commit": "2026-10-05T07:53:44Z",
             "open_issues": 13,
             "owner": "0xa3k5",
             "repo": "web3icons",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:59:57.030Z",
+    "last_updated": "2026-10-06T10:22:41.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
@@ -371,10 +371,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-24T07:35:32Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
-      "stars": 264,
+      "stars": 265,
       "topics": [
         "awesome",
         "awesome-list",
