@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-04T10:43:49Z",
-            "open_issues": 982,
+            "open_issues": 983,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25983,
+            "stars": 25987,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23861,
+            "stars": 23863,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 89,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18190,
+            "stars": 18193,
             "topics": [
               "icon-pack",
               "icons",
@@ -132,13 +132,13 @@
             "description": "Official open source SVG icon library for Bootstrap.",
             "homepage": "https://icons.getbootstrap.com",
             "id": 198878888,
-            "language": "TypeScript",
+            "language": "Astro",
             "license": "MIT",
-            "last_commit": "2026-10-07T04:23:03Z",
-            "open_issues": 497,
+            "last_commit": "2026-10-08T17:28:30Z",
+            "open_issues": 493,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8136,
+            "stars": 8137,
             "topics": [
               "bootstrap",
               "font",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:58:32.472Z",
+    "last_updated": "2026-10-08T18:00:55.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
