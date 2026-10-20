@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-19T11:30:13Z",
-            "open_issues": 997,
+            "open_issues": 998,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26039,
+            "stars": 26045,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23873,
+            "stars": 23872,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 90,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18210,
+            "stars": 18211,
             "topics": [
               "icon-pack",
               "icons",
@@ -107,10 +107,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-05-18T06:50:14Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15402,
+            "stars": 15403,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -138,7 +138,7 @@
             "open_issues": 494,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8152,
+            "stars": 8155,
             "topics": [
               "bootstrap",
               "font",
@@ -250,7 +250,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T22:25:49Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "0xa3k5",
             "repo": "web3icons",
             "stars": 285,
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:47:40.801Z",
+    "last_updated": "2026-10-20T15:50:53.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
