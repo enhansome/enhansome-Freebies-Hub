@@ -66,15 +66,15 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Vectors 🎨
 
-* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 26,045 | 🐛 998 | 🌐 JavaScript | 📅 2026-10-19)
-* [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,872 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12)
+* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 26,049 | 🐛 1,000 | 🌐 JavaScript | 📅 2026-10-19)
+* [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,874 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12)
 * [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,211 | 🐛 90 | 🌐 TypeScript | 📅 2026-07-28)
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,403 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
-* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,155 | 🐛 494 | 🌐 Astro | 📅 2026-10-12)
-* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,597 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-18)
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,401 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,156 | 🐛 494 | 🌐 Astro | 📅 2026-10-12)
+* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,600 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-18)
 * [Pixelarticons](https://pixelarticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/pixelarticons) ⭐ 871 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06)
 * [Pattern Monster](https://pattern.monster/) - FREE SVG Patterns ([Open Source](https://github.com/catchspider2002/svelte-svg-patterns) ⭐ 746 | 🐛 17 | 🌐 Svelte | 📅 2024-09-11)
-* [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 285 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-16)
+* [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 286 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-16)
 * [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons) ⭐ 200 | 🐛 6 | 🌐 CSS | 📅 2023-10-23)
 * [Majesticons](https://majesticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/majesticons) ⭐ 189 | 🐛 0 | 📅 2026-07-12)
 * [picon](https://yne.fr/picon/) - FREE Icons ([Open Source](https://github.com/yne/picon) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2024-05-01)
@@ -123,6 +123,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 * [Oceanwatcher Media](https://oceanwatcher.com/free-instagram-carousel-templates-for-affinity-photo/) - FREE Affinity Photo Templates
 * [Unblast](https://unblast.com) - FREE Mockups
 * [UI Kits](https://www.pixeltrue.com/free-ui-kits) - FREE UI Kits
+* [8B Templates](https://8b.com/templates/) - FREE One-Page HTML Website Templates for Local Businesses (MIT)
 
 ## FREE Videos 📽
 
@@ -165,6 +166,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 ## FREE Printables 🖨️
 
 * [Huebloom](https://huebloom.art/) - Colouring resources
+* [Coloring Fun](https://www.coloringfun.io/) - Coloring pages, color-by-number & dot-to-dot sheets
 
 ### Credits 😍
 
@@ -184,4 +186,4 @@ I don't own any of these websites, and I'll not be liable for any damage you get
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
