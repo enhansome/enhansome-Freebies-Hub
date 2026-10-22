@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-19T11:30:13Z",
-            "open_issues": 1000,
+            "open_issues": 998,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26049,
+            "stars": 26058,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23874,
+            "stars": 23875,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 90,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18211,
+            "stars": 18213,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15401,
+            "stars": 15400,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -138,7 +138,7 @@
             "open_issues": 494,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8156,
+            "stars": 8157,
             "topics": [
               "bootstrap",
               "font",
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 871,
+            "stars": 875,
             "topics": [
               "icons",
               "iconset",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "catchspider2002",
             "repo": "svelte-svg-patterns",
-            "stars": 746,
+            "stars": 748,
             "topics": [
               "patterns",
               "sapper",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "majesticons",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "icon-pack",
               "icons",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T16:08:05.019Z",
+    "last_updated": "2026-10-22T16:05:49.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
@@ -371,7 +371,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-21T13:29:25Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
       "stars": 266,
