@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-24T11:50:28Z",
-            "open_issues": 997,
+            "last_commit": "2026-10-25T00:51:39Z",
+            "open_issues": 998,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26075,
+            "stars": 26080,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23878,
+            "stars": 23881,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 90,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18220,
+            "stars": 18222,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15403,
+            "stars": 15404,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -164,10 +164,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-18T19:10:24Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4605,
+            "stars": 4606,
             "topics": [
               "figma",
               "flutter",
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:54:57.628Z",
+    "last_updated": "2026-10-25T15:03:56.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
