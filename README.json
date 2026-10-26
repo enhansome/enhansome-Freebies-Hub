@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-25T00:51:39Z",
+            "last_commit": "2026-10-25T17:18:51Z",
             "open_issues": 998,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26080,
+            "stars": 26093,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23881,
+            "stars": 23882,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -78,10 +78,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-28T20:43:44Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18222,
+            "stars": 18223,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15404,
+            "stars": 15407,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -135,10 +135,10 @@
             "language": "Astro",
             "license": "MIT",
             "last_commit": "2026-10-12T11:12:17Z",
-            "open_issues": 494,
+            "open_issues": 495,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8160,
+            "stars": 8162,
             "topics": [
               "bootstrap",
               "font",
@@ -158,25 +158,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.",
+            "description": "Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.",
             "homepage": "https://iconoir.com",
             "id": 127029973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T19:10:24Z",
-            "open_issues": 161,
+            "last_commit": "2026-10-25T22:13:49Z",
+            "open_issues": 155,
             "owner": "iconoir-icons",
             "repo": "iconoir",
             "stars": 4606,
             "topics": [
+              "css",
               "figma",
               "flutter",
               "framer",
+              "free-icons",
               "icon",
+              "icon-library",
+              "icon-pack",
+              "icon-set",
+              "iconoir",
               "icons",
+              "open-source",
               "react",
+              "react-icons",
               "react-native",
-              "svg"
+              "solidjs",
+              "svg",
+              "svg-icons",
+              "vue",
+              "vue-icons"
             ]
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -253,7 +265,7 @@
             "open_issues": 14,
             "owner": "0xa3k5",
             "repo": "web3icons",
-            "stars": 286,
+            "stars": 288,
             "topics": [
               "blockchain",
               "chain",
@@ -362,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T15:03:56.398Z",
+    "last_updated": "2026-10-26T17:40:09.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
