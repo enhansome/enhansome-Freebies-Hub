@@ -66,13 +66,13 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Vectors 🎨
 
-* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 26,103 | 🐛 1,001 | 🌐 JavaScript | 📅 2026-10-25)
-* [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,889 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12)
-* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,225 | 🐛 91 | 🌐 TypeScript | 📅 2026-07-28)
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,405 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
-* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,163 | 🐛 496 | 🌐 Astro | 📅 2026-10-29)
-* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,611 | 🐛 155 | 🌐 TypeScript | 📅 2026-10-25)
-* [Pixelarticons](https://pixelarticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/pixelarticons) ⭐ 880 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06)
+* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 26,109 | 🐛 1,001 | 🌐 JavaScript | 📅 2026-10-25)
+* [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,891 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12)
+* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,226 | 🐛 91 | 🌐 TypeScript | 📅 2026-07-28)
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,404 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,164 | 🐛 498 | 🌐 Astro | 📅 2026-10-29)
+* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,612 | 🐛 155 | 🌐 TypeScript | 📅 2026-10-25)
+* [Pixelarticons](https://pixelarticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/pixelarticons) ⭐ 881 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06)
 * [Pattern Monster](https://pattern.monster/) - FREE SVG Patterns ([Open Source](https://github.com/catchspider2002/svelte-svg-patterns) ⭐ 748 | 🐛 17 | 🌐 Svelte | 📅 2024-09-11)
 * [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 290 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-16)
 * [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons) ⭐ 200 | 🐛 6 | 🌐 CSS | 📅 2023-10-23)
@@ -151,6 +151,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 * [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - FREE Sound Effects
 * [99Sounds](https://99sounds.org/cinematic-sound-effects/) - FREE Cinematic Sound Effects
 * [Soundza](https://soundza.com/) - FREE Sound Effects, Music Loops, Ambience & SFX Generator (Account Required)
+* [DailySounds](https://dailysounds.org/?ref=freebieshub) - FREE Sound Effects for Games, Videos & Podcasts (No Sign-up)
 
 ## FREE Fonts ✍🏼
 
@@ -169,6 +170,8 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 * [Huebloom](https://huebloom.art/) - Colouring resources
 * [Coloring Fun](https://www.coloringfun.io/) - Coloring pages, color-by-number & dot-to-dot sheets
+* [Coloring Pages Story](https://coloringpagestory.com/) - Printable coloring and drawing activities
+* [Coloring Sunny](https://coloringsunny.com/) - Coloring resource for children, families, teachers, and adults (account required for more than 2 downloads)
 
 ### Credits 😍
 
@@ -188,4 +191,4 @@ I don't own any of these websites, and I'll not be liable for any damage you get
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
