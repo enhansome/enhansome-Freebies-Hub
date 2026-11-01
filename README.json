@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-25T17:18:51Z",
-            "open_issues": 1002,
+            "last_commit": "2026-11-01T00:25:15Z",
+            "open_issues": 1008,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26112,
+            "stars": 26119,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23893,
+            "stars": 23894,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 91,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18228,
+            "stars": 18229,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15405,
+            "stars": 15406,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -134,11 +134,11 @@
             "id": 198878888,
             "language": "Astro",
             "license": "MIT",
-            "last_commit": "2026-10-29T20:40:53Z",
-            "open_issues": 498,
+            "last_commit": "2026-11-01T05:29:50Z",
+            "open_issues": 503,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8164,
+            "stars": 8165,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 155,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4611,
+            "stars": 4613,
             "topics": [
               "css",
               "figma",
@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "pixelarticons",
-            "stars": 884,
+            "stars": 887,
             "topics": [
               "icons",
               "iconset",
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T16:20:12.791Z",
+    "last_updated": "2026-11-01T17:15:50.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
@@ -383,7 +383,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-29T22:17:06Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "zcraber",
       "repo": "Freebies-Hub",
       "stars": 267,
