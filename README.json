@@ -15,11 +15,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-07T07:19:54Z",
-            "open_issues": 1017,
+            "last_commit": "2026-11-08T07:07:59Z",
+            "open_issues": 1019,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26178,
+            "stars": 26184,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23904,
+            "stars": 23903,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 91,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18239,
+            "stars": 18240,
             "topics": [
               "icon-pack",
               "icons",
@@ -138,7 +138,7 @@
             "open_issues": 503,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8174,
+            "stars": 8173,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 156,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4624,
+            "stars": 4626,
             "topics": [
               "css",
               "figma",
@@ -265,7 +265,7 @@
             "open_issues": 13,
             "owner": "0xa3k5",
             "repo": "web3icons",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "blockchain",
               "chain",
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:59:58.520Z",
+    "last_updated": "2026-11-08T17:15:21.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
