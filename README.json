@@ -19,7 +19,7 @@
             "open_issues": 1042,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26198,
+            "stars": 26207,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 6,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23907,
+            "stars": 23908,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -138,7 +138,7 @@
             "open_issues": 503,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8176,
+            "stars": 8177,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 156,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4634,
+            "stars": 4637,
             "topics": [
               "css",
               "figma",
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:53:40.004Z",
+    "last_updated": "2026-11-12T19:12:09.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
