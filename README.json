@@ -19,7 +19,7 @@
             "open_issues": 1042,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26207,
+            "stars": 26213,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 6,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23908,
+            "stars": 23905,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 91,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18244,
+            "stars": 18245,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15409,
+            "stars": 15410,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -138,7 +138,7 @@
             "open_issues": 503,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8177,
+            "stars": 8180,
             "topics": [
               "bootstrap",
               "font",
@@ -167,7 +167,7 @@
             "open_issues": 156,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4637,
+            "stars": 4639,
             "topics": [
               "css",
               "figma",
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:12:09.291Z",
+    "last_updated": "2026-11-13T18:48:10.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
