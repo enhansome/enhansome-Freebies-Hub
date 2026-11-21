@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-19T13:12:55Z",
-            "open_issues": 1056,
+            "open_issues": 1057,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26242,
+            "stars": 26248,
             "topics": [
               "brand",
               "brand-assets",
@@ -60,7 +60,7 @@
             "open_issues": 6,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23914,
+            "stars": 23915,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:04.465Z"
@@ -81,7 +81,7 @@
             "open_issues": 91,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18259,
+            "stars": 18260,
             "topics": [
               "icon-pack",
               "icons",
@@ -110,7 +110,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15445,
+            "stars": 15444,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -138,7 +138,7 @@
             "open_issues": 506,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8186,
+            "stars": 8187,
             "topics": [
               "bootstrap",
               "font",
@@ -163,11 +163,11 @@
             "id": 127029973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T10:16:27Z",
+            "last_commit": "2026-11-21T09:29:13Z",
             "open_issues": 158,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4649,
+            "stars": 4652,
             "topics": [
               "css",
               "figma",
@@ -236,7 +236,7 @@
             "open_issues": 17,
             "owner": "catchspider2002",
             "repo": "svelte-svg-patterns",
-            "stars": 752,
+            "stars": 753,
             "topics": [
               "patterns",
               "sapper",
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T19:16:28.196Z",
+    "last_updated": "2026-11-21T18:16:45.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
