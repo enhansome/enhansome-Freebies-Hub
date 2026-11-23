@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-22T18:37:22Z",
-            "open_issues": 1050,
+            "open_issues": 1051,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26252,
+            "stars": 26257,
             "topics": [
               "brand",
               "brand-assets",
@@ -81,7 +81,7 @@
             "open_issues": 91,
             "owner": "ionic-team",
             "repo": "ionicons",
-            "stars": 18259,
+            "stars": 18263,
             "topics": [
               "icon-pack",
               "icons",
@@ -134,11 +134,11 @@
             "id": 198878888,
             "language": "Astro",
             "license": "MIT",
-            "last_commit": "2026-11-14T01:13:47Z",
+            "last_commit": "2026-11-23T22:19:33Z",
             "open_issues": 506,
             "owner": "twbs",
             "repo": "icons",
-            "stars": 8186,
+            "stars": 8187,
             "topics": [
               "bootstrap",
               "font",
@@ -164,10 +164,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T09:29:13Z",
-            "open_issues": 159,
+            "open_issues": 158,
             "owner": "iconoir-icons",
             "repo": "iconoir",
-            "stars": 4653,
+            "stars": 4675,
             "topics": [
               "css",
               "figma",
@@ -262,7 +262,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-20T08:18:45Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "0xa3k5",
             "repo": "web3icons",
             "stars": 297,
@@ -323,7 +323,7 @@
             "open_issues": 0,
             "owner": "halfmage",
             "repo": "majesticons",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "icon-pack",
               "icons",
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:40:46.808Z",
+    "last_updated": "2026-11-23T22:56:12.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc.",
