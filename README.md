@@ -66,15 +66,15 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Vectors 🎨
 
-* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 26,268 | 🐛 1,048 | 🌐 JavaScript | 📅 2026-11-24)
-* [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,922 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-12)
-* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,267 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-19)
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,444 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
-* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,193 | 🐛 506 | 🌐 Astro | 📅 2026-11-23)
-* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,691 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-21)
+* [Simpleicons](https://simpleicons.org/) - FREE Icons ([Open Source](https://github.com/simple-icons/simple-icons) ⭐ 26,282 | 🐛 1,048 | 🌐 JavaScript | 📅 2026-11-24)
+* [Heroicons](https://heroicons.com/) - FREE Icons ([Open Source](https://github.com/tailwindlabs/heroicons) ⭐ 23,923 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-12)
+* [Ionicons](https://ionic.io/ionicons) - FREE Icons ([Open Source](https://github.com/ionic-team/ionicons) ⭐ 18,268 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-19)
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,446 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - FREE Miniscule SVG Icons of Websites & Apps
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - FREE Icons ([Open Source](https://github.com/twbs/icons) ⭐ 8,194 | 🐛 506 | 🌐 Astro | 📅 2026-11-23)
+* [Iconoir](https://iconoir.com/) - FREE Icons ([Open Source](https://github.com/lucaburgio/iconoir) ⭐ 4,696 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-21)
 * [Pixelarticons](https://pixelarticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/pixelarticons) ⭐ 910 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06)
 * [Pattern Monster](https://pattern.monster/) - FREE SVG Patterns ([Open Source](https://github.com/catchspider2002/svelte-svg-patterns) ⭐ 754 | 🐛 17 | 🌐 Svelte | 📅 2024-09-11)
-* [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 296 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-20)
+* [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons) ⭐ 298 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-20)
 * [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons) ⭐ 200 | 🐛 6 | 🌐 CSS | 📅 2023-10-23)
 * [Majesticons](https://majesticons.com/) - FREE Icons ([Open Source](https://github.com/halfmage/majesticons) ⭐ 191 | 🐛 0 | 📅 2026-07-12)
 * [picon](https://yne.fr/picon/) - FREE Icons ([Open Source](https://github.com/yne/picon) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2024-05-01)
@@ -192,4 +192,4 @@ I don't own any of these websites, and I'll not be liable for any damage you get
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
